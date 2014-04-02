@@ -1,8 +1,9 @@
 ---
-layout: post
-title: "Weekly Fitness Update"
-date: 2013-05-08 06:00:00
+layout:     post
+title:      "Weekly Fitness Update"
+date:       2013-05-08 06:00:00
 categories: ["Get Sexy", "Goals"]
+permalink:  /2013/05/08/weekly-fitness-update/
 ---
 
 I'm just barely under 200 lbs now, making me lighter than I have been for about two years.  While I know that at least a

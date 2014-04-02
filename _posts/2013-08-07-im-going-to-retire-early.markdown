@@ -3,6 +3,7 @@ layout:     post
 date:       2013-08-07 06:00:00
 categories: ["Goals", "Early Retirement"]
 title:      "I'm Going to Retire Early"
+permalink:  /2013/08/07/im-going-to-retire-early/
 ---
 
 Well, maybe not retire, but I'll certainly be financially independent.  This is a new goal that I've had for a while, a

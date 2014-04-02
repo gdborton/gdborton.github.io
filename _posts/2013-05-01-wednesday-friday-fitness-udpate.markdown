@@ -3,6 +3,7 @@ layout: post
 title:  "Wednesday Friday Fitness Update"
 date: 2013-05-01 06:00:00
 categories: ["Get Sexy", "Goals"]
+permalink:  /2013/05/01/wednesday-friday-fitness-update/
 ---
 This is embarrassingly late, by almost a week.  I've got a few things going on at the moment that detracted from my time
 to put toward this.  The most important being that we're painting a good portion of our house, and we needed to get it

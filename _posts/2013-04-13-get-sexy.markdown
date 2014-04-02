@@ -3,6 +3,7 @@ layout:     post
 title:      "Get Sexy"
 date:       2013-04-13 06:00:00
 categories: ["Get Sexy", goals]
+permalink:  /2013/04/16/get-sexy/
 ---
 I didn't make a New Year's resolution this year, or any other year for that matter.  I don't believe in them.  I try,
 like anyone should, to change my behavior when I notice that there is a problem.  All changes that happen in your life,

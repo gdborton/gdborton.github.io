@@ -3,6 +3,7 @@ layout:     post
 title:      "First Friday Fitness Update"
 date:       2013-04-19 06:00:00
 categories: ["Get Sexy", "Goals"]
+permalink:  /2013/04/19/first-friday-fitness-update/
 ---
 I've been working on my [get sexy goal](http://www.garyborton.com/2013/04/16/get-sexy/) for a little of a week now, and
 so far I've made some outstanding progress.  I'm going to attempt to do an end of the week rehash on my progress, what I

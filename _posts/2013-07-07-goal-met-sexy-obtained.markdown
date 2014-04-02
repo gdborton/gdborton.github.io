@@ -3,6 +3,7 @@ layout: post
 title: "Goal Met Sexy Obtained"
 date: 2013-07-07 06:00:00
 categories: ["Get Sexy", "Goals"]
+permalink:  /2013/07/07/goal-met-sexy-obtained/
 ---
 
 I reached my goal and then some.  My lowest weight between now and my previous post was around 179.8 lbs, and my

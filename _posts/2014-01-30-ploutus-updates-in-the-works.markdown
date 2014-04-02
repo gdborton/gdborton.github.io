@@ -1,8 +1,9 @@
 ---
-layout: post
-title: "Ploutus Updates in the Works"
+layout:     post
+title:      "Ploutus Updates in the Works"
 categories: ["Coding for Fun", "Early Retirement"]
-date: 2014-01-30 06:00:00
+date:       2014-01-30 06:00:00
+permalink:  /2014/01/30/ploutus-updates-in-the-works/
 ---
 
 I took a new job semi recently, and have been learning a lot about some new to me technologies.  Right now a large part

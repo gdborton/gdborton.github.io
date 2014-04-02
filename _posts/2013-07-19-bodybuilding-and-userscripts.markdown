@@ -1,8 +1,9 @@
 ---
-layout: post
-title: "BodyBuilding and Userscripts"
-date: 2013-07-19 06:00:00
+layout:     post
+title:      "BodyBuilding and Userscripts"
+date:       2013-07-19 06:00:00
 categories: ["Coding for Fun"]
+permalink:  /2013/07/19/77/
 ---
 
 For my [get sexy goal](http://www.garyborton.com/2013/04/16/get-sexy/), I used bodybuilding.com a lot.  It really helped
