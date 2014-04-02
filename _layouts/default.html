@@ -9,13 +9,32 @@
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
 
-        <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
 
     </head>
     <body>
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">{{ site.name }}</a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li><a href="http://www.ploutus.com" >Ploutus Project</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 
-        <div class="site">
+        <div class="container">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
             <a class="extra" href="/">home</a>
@@ -23,21 +42,11 @@
 
           {{ content }}
 
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
+            <div class="footer">
+                <div class="contact">
+                    <p>I'm <a href="http://www.garyborton.com">Gary Borton</a> and I'm on <a href="https://github.com/gdborton">github</a>.</p>
+                </div>
             </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
         </div>
 
     </body>
