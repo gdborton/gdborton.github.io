@@ -12,8 +12,8 @@ Any who, time for some numbers.
 
 ## Progress
 
-Second week's weight loss progress.
-Moar Progress!
+![Second week's weight loss progress.](/images/weight_progress_05012013.png "Moar Progress!")
+
 Look at that, down another three pounds in just a week.  I'm not sure what amount of this weight is water and/or daily
 fluctuation, but when the scale tells me I lost I'm happy.
 
