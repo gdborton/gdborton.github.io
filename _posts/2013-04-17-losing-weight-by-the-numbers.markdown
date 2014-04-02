@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "Losing Weight by the Numbers"
+layout:     post
+title:      "Losing Weight by the Numbers"
+date:       2013-04-17 06:00:00
 categories: ["Get Sexy", "goals"]
 ---
 I just posted one of my most recent goals, to [get sexy](http://www.garyborton.com/2013/04/16/get-sexy/).  This post is
