@@ -10,8 +10,14 @@ div.footer {
 .posts {
     list-style-type: none;
 }
+
 .posts li {
     line-height: 1.75em;
+}
+
+.post {
+    margin-left: 20px;
+    max-width: 750px;
 }
 
 .site {
@@ -20,4 +26,9 @@ div.footer {
     width: 42em;
     margin: 3em auto 2em;
     line-height: 1.5em;
+}
+
+.meta {
+  margin-left: 20px;
+  color: #aaa;
 }
