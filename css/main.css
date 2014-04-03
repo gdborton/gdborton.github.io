@@ -13,11 +13,6 @@ div.footer {
 .posts li {
     line-height: 1.75em;
 }
-.posts span {
-    color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
-}
 
 .site {
     font-size: 115%;
