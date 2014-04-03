@@ -6,7 +6,7 @@ categories: ["Coding for Fun"]
 permalink:  /2013/07/19/77/
 ---
 
-For my [get sexy goal](http://www.garyborton.com/2013/04/16/get-sexy/), I used bodybuilding.com a lot.  It really helped
+For my [get sexy goal]({{site.url}}/2013/04/16/get-sexy/), I used bodybuilding.com a lot.  It really helped
 me with both my diet and my workout, and it helped me to filter out all of the bro science that floats around out there.
 The best part of the site is the forum, and while like any forum there is a lot of misinformation coming from people
 that are wrong or just fuzzy on an idea,  I would say that there is an equal number of people that are skeptics, and

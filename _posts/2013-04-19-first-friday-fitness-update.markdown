@@ -5,7 +5,7 @@ date:       2013-04-19 06:00:00
 categories: ["Get Sexy", "Goals"]
 permalink:  /2013/04/19/first-friday-fitness-update/
 ---
-I've been working on my [get sexy goal](http://www.garyborton.com/2013/04/16/get-sexy/) for a little of a week now, and
+I've been working on my [get sexy goal]({{site.url}}/2013/04/16/get-sexy/) for a little of a week now, and
 so far I've made some outstanding progress.  I'm going to attempt to do an end of the week rehash on my progress, what I
 feel I did right, and what I feel I could do better.
 
@@ -16,7 +16,7 @@ feel I did right, and what I feel I could do better.
 There is a tiny bit of weight loss that happened before I started recording my progress, but for the sake of clean data
 I'm going to ignore it.  The three lines represent a linear progression from my starting weight (213.5 lbs) to my goal
 weight (190 lbs), my current weight, and the weight my Calorie intake says I should be at (based on some quick math I
-outlined [here](http://www.garyborton.com/2013/04/17/losing-weight-by-the-numbers/)).
+outlined [here]({{site.url}}/2013/04/17/losing-weight-by-the-numbers/)).
 
 There are several reasons why it appears that I'm ahead of the game.  The first is inaccuracy… your body weight can
 fluctuate day to day and even hour to hour.

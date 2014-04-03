@@ -7,7 +7,7 @@ permalink:  /2013/08/07/im-going-to-retire-early/
 ---
 
 Well, maybe not retire, but I'll certainly be financially independent.  This is a new goal that I've had for a while, a
-little over a year at this point, and it is certainly different from my [get sexy goal](http://www.garyborton.com/2013/04/16/get-sexy/).
+little over a year at this point, and it is certainly different from my [get sexy goal]({{site.url}}/2013/04/16/get-sexy/).
 
 ## Why?
 

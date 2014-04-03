@@ -21,4 +21,4 @@ would assume most overweight people) running is hell.  It is so much easier just
 it is to tack on an extra mile to your work out.
 
 Personally my work out included as little cardio as possible, I lifted heavy 4-5 times a week and ran less than a mile
-each time.  My weight loss primarily came from my [caloric deficit](http://www.garyborton.com/2013/04/17/losing-weight-by-the-numbers/).
+each time.  My weight loss primarily came from my [caloric deficit]({{site.url}}/2013/04/17/losing-weight-by-the-numbers/).

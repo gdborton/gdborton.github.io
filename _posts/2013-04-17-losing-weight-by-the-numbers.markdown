@@ -5,7 +5,7 @@ date:       2013-04-17 06:00:00
 categories: ["Get Sexy", "goals"]
 permalink:  /2013/04/17/losing-weight-by-the-numbers/
 ---
-I just posted one of my most recent goals, to [get sexy](http://www.garyborton.com/2013/04/16/get-sexy/).  This post is
+I just posted one of my most recent goals, to [get sexy]({{site.url}}/2013/04/16/get-sexy/).  This post is
 going to show some of my ideas and math behind my actions.  There will be a post somewhere near the end of the week
 detailing my progress thus far.
 
