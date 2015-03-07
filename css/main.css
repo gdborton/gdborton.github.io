@@ -32,3 +32,12 @@ div.footer {
   margin-left: 20px;
   color: #aaa;
 }
+
+.canal-banner {
+    width: 100%;
+    height: 200px;
+    background-image: url('/images/canal.png');
+    -moz-box-shadow:    inset black 0px 12px 11px -9px, inset black 0px -12px 11px -9px;
+    -webkit-box-shadow: inset black 0px 12px 11px -9px, inset black 0px -12px 11px -9px;
+     box-shadow:        inset black 0px 12px 11px -9px, inset black 0px -12px 11px -9px;
+}
